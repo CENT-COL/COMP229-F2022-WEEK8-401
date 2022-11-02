@@ -25,3 +25,4 @@ class Car implements IVehicle {
 
 let a = new Car(4, 'v8');
 a.drive();
+
